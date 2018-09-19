@@ -1,6 +1,7 @@
 [submodule "Lab1"]
 	path = Lab1
 	url = https://github.com/blrichards/EE445L_Lab1.git
+	branch = master
 [submodule "Lab2"]
 	path = Lab2
 	url = https://github.com/blrichards/EE445L_Lab2
@@ -8,3 +9,4 @@
 [submodule "Lab3"]
 	path = Lab3
 	url = https://github.com/EE445L-F18/lab3-br24964_ram5295.git
+	branch = master
