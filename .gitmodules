@@ -10,3 +10,7 @@
 	path = Lab3
 	url = https://github.com/EE445L-F18/lab3-br24964_ram5295.git
 	branch = master
+[submodule "Lab4"]
+	path = Lab4
+	url = https://github.com/blrichards/EE445L_Lab4.git
+	branch = master
