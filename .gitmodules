@@ -14,3 +14,7 @@
 	path = Lab4
 	url = https://github.com/blrichards/EE445L_Lab4.git
 	branch = master
+[submodule "Lab5"]
+	path = Lab5
+	url = https://github.com/blrichards/EE445L_Lab5.git
+	branch = master
